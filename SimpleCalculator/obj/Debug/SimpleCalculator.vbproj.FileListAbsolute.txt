@@ -1,0 +1,17 @@
+C:\Users\bradn\OneDrive\Desktop\repositories\local\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\bradn\OneDrive\Desktop\repositories\local\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\bradn\OneDrive\Desktop\repositories\local\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\bradn\OneDrive\Desktop\repositories\local\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.xml
+C:\Users\bradn\OneDrive\Desktop\repositories\local\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.vbproj.AssemblyReference.cache
+C:\Users\bradn\OneDrive\Desktop\repositories\local\SimpleCalculator\SimpleCalculator\obj\Debug\MainWindow.g.vb
+C:\Users\bradn\OneDrive\Desktop\repositories\local\SimpleCalculator\SimpleCalculator\obj\Debug\Application.g.vb
+C:\Users\bradn\OneDrive\Desktop\repositories\local\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator_MarkupCompile.cache
+C:\Users\bradn\OneDrive\Desktop\repositories\local\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator_MarkupCompile.lref
+C:\Users\bradn\OneDrive\Desktop\repositories\local\SimpleCalculator\SimpleCalculator\obj\Debug\MainWindow.baml
+C:\Users\bradn\OneDrive\Desktop\repositories\local\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.g.resources
+C:\Users\bradn\OneDrive\Desktop\repositories\local\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Resources.resources
+C:\Users\bradn\OneDrive\Desktop\repositories\local\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.vbproj.GenerateResource.cache
+C:\Users\bradn\OneDrive\Desktop\repositories\local\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\bradn\OneDrive\Desktop\repositories\local\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\bradn\OneDrive\Desktop\repositories\local\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.xml
+C:\Users\bradn\OneDrive\Desktop\repositories\local\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
